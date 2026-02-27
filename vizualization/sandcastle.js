@@ -3,7 +3,7 @@ const viewer = new Cesium.Viewer("cesiumContainer", {
   terrainProvider: undefined
 });
 
-// Aici inserăm datele tale CZML
+// CZML data
 const czmlData = 
 [
     {
